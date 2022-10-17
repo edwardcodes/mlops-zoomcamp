@@ -6,10 +6,12 @@ data/
 *.parquet
 *.html
 *.csv
+*.json
 
 .venv
 venv
 .idea
+.vscode/
 **/artifacts/
 **/models/
 
